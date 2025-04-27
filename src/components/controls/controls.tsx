@@ -1,4 +1,4 @@
-import styles from "./Controls.module.scss";
+import styles from "./controls.module.scss";
 
 export function Controls({
 	enabled,
